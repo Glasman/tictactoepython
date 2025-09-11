@@ -18,6 +18,7 @@ playerX = "X"
 playerO = "O"
 
 curr_player = playerX
+
 board = [[0, 0, 0], [0, 0, 0], [0, 0, 0]]
 
 color_blue = "#4584b6"
